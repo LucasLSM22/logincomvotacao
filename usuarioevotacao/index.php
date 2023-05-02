@@ -64,7 +64,7 @@
           </div>
 
             <div class="col bg-white">
-                <!implementando a tabela ->
+                <!implementando os campos de digitacao de login ->
                     <div bs-primary >
                     <div class="col bg-white d-flex justify-content-center">
                        <div><br>
